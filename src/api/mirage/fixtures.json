@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "_id": "1",
+      "author": "Johnny B. Good",
+      "content": "Lore Ipsum",
+      "tags": ["carpentry", "competition", "agile"],
+      "authorSlug": "johnny-good"
+    },
+    {
+      "_id": "2",
+      "author": "Jessica B. Good",
+      "content": "Lore Ipsum",
+      "tags": ["lumberjack", "competition", "strong"],
+      "authorSlug": "jessica-good"
+    },
+    {
+      "_id": "3",
+      "author": "Jane B. Good",
+      "content": "Lore Ipsum",
+      "tags": ["doctor", "competition", "clever"],
+      "authorSlug": "jane-good"
+    }
+  ]
+}
